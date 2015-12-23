@@ -1,0 +1,5 @@
+C:\Users\Ioannis\Desktop\SimpleUdpReciever\bin\Debug\SimpleUdpReciever.exe
+C:\Users\Ioannis\Desktop\SimpleUdpReciever\bin\Debug\SimpleUdpReciever.pdb
+C:\Users\Ioannis\Desktop\SimpleUdpReciever\obj\x86\Debug\SimpleUdpReciever.csprojResolveAssemblyReference.cache
+C:\Users\Ioannis\Desktop\SimpleUdpReciever\obj\x86\Debug\SimpleUdpReciever.exe
+C:\Users\Ioannis\Desktop\SimpleUdpReciever\obj\x86\Debug\SimpleUdpReciever.pdb

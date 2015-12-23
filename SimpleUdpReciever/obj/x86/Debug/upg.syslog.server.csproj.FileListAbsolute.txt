@@ -1,0 +1,6 @@
+C:\Users\Ioannis\Desktop\SimpleUdpReciever\bin\Debug\UpgSyslogServer.exe
+C:\Users\Ioannis\Desktop\SimpleUdpReciever\bin\Debug\UpgSyslogServer.pdb
+C:\Users\Ioannis\Desktop\SimpleUdpReciever\obj\x86\Debug\UpgSyslogServer.exe
+C:\Users\Ioannis\Desktop\SimpleUdpReciever\obj\x86\Debug\UpgSyslogServer.pdb
+C:\upg\Projects\VB\UPG SYSLOG SERVER\SimpleUdpReciever\obj\x86\Debug\UpgSyslogServer.exe
+C:\upg\Projects\VB\UPG SYSLOG SERVER\SimpleUdpReciever\obj\x86\Debug\UpgSyslogServer.pdb

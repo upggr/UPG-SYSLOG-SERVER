@@ -1,0 +1,230 @@
+- 22:46:18.000 INFO: --------------------------------------------------------
+- 22:46:18.000 INFO: Started application
+- 22:46:18.000 INFO: Logging to: C:\Users\Ioannis\Desktop\php-desktop-msie_v10\debug.log
+- 22:46:18.000 INFO: Log level = INFO
+- 22:46:18.000 INFO: Starting Mongoose web server
+- 22:46:18.000 INFO: Web server url: http://127.0.0.1:54007/
+- 22:46:18.000 INFO: WWW directory: C:\Users\Ioannis\Desktop\php-desktop-msie_v10\www
+- 22:46:18.000 INFO: Index files: index.html,index.php
+- 22:46:18.000 INFO: CGI interpreter: C:\Users\Ioannis\Desktop\php-desktop-msie_v10\php\php-cgi.exe
+- 22:46:18.000 INFO: CGI pattern: **.php$
+- 22:46:18.000 INFO: IE version from registry: 9.11.9431.0
+- 22:46:26.000 INFO: Stopping Mongoose web server
+- 22:46:26.062 INFO: Ended application
+- 22:46:26.062 INFO: --------------------------------------------------------
+- 22:51:35.000 INFO: --------------------------------------------------------
+- 22:51:35.000 INFO: Started application
+- 22:51:35.000 INFO: Logging to: C:\upg\Projects\VB\UPG SYSLOG SERVER\Release\data\debug.log
+- 22:51:35.000 INFO: Log level = INFO
+- 22:51:35.000 INFO: Starting Mongoose web server
+- 22:51:35.000 INFO: Web server url: http://127.0.0.1:54007/
+- 22:51:35.000 INFO: WWW directory: C:\upg\Projects\VB\UPG SYSLOG SERVER\Release\data\www
+- 22:51:35.000 INFO: Index files: index.html,index.php
+- 22:51:35.000 INFO: CGI interpreter: C:\upg\Projects\VB\UPG SYSLOG SERVER\Release\data\php\php-cgi.exe
+- 22:51:35.000 INFO: CGI pattern: **.php$
+- 22:51:35.000 INFO: IE version from registry: 9.11.9431.0
+- 22:51:36.218 INFO: GET 200 /
+- 22:51:37.500 INFO: Stopping Mongoose web server
+- 22:51:37.672 INFO: Ended application
+- 22:51:37.672 INFO: --------------------------------------------------------
+- 22:51:47.000 INFO: --------------------------------------------------------
+- 22:51:47.000 INFO: Started application
+- 22:51:47.000 INFO: Logging to: C:\upg\Projects\VB\UPG SYSLOG SERVER\Release\data\debug.log
+- 22:51:47.000 INFO: Log level = INFO
+- 22:51:47.000 INFO: Starting Mongoose web server
+- 22:51:47.000 INFO: Web server url: http://127.0.0.1:54007/
+- 22:51:47.000 INFO: WWW directory: C:\upg\Projects\VB\UPG SYSLOG SERVER\Release\data\www
+- 22:51:47.000 INFO: Index files: index.html,index.php
+- 22:51:47.000 INFO: CGI interpreter: C:\upg\Projects\VB\UPG SYSLOG SERVER\Release\data\php\php-cgi.exe
+- 22:51:47.000 INFO: CGI pattern: **.php$
+- 22:51:47.000 INFO: IE version from registry: 9.11.9431.0
+- 22:51:47.109 INFO: GET 200 /
+- 22:51:54.688 INFO: Stopping Mongoose web server
+- 22:51:54.875 INFO: Ended application
+- 22:51:54.875 INFO: --------------------------------------------------------
+- 22:53:16.000 INFO: --------------------------------------------------------
+- 22:53:16.000 INFO: Started application
+- 22:53:16.000 INFO: Logging to: C:\upg\Projects\VB\UPG SYSLOG SERVER\Release\data\debug.log
+- 22:53:16.000 INFO: Log level = INFO
+- 22:53:16.000 INFO: Starting Mongoose web server
+- 22:53:16.000 INFO: Web server url: http://127.0.0.1:54007/
+- 22:53:16.000 INFO: WWW directory: C:\upg\Projects\VB\UPG SYSLOG SERVER\Release\data\www
+- 22:53:16.000 INFO: Index files: index.html,index.php
+- 22:53:16.000 INFO: CGI interpreter: C:\upg\Projects\VB\UPG SYSLOG SERVER\Release\data\php\php-cgi.exe
+- 22:53:16.000 INFO: CGI pattern: **.php$
+- 22:53:16.000 INFO: IE version from registry: 9.11.9431.0
+- 22:53:16.094 INFO: GET 200 /
+- 22:53:18.234 INFO: Stopping Mongoose web server
+- 22:53:18.250 INFO: Ended application
+- 22:53:18.250 INFO: --------------------------------------------------------
+- 22:59:28.016 INFO: --------------------------------------------------------
+- 22:59:28.016 INFO: Started application
+- 22:59:28.016 INFO: Logging to: C:\upg\Projects\VB\UPG SYSLOG SERVER\Release\data\debug.log
+- 22:59:28.016 INFO: Log level = INFO
+- 22:59:28.016 INFO: Starting Mongoose web server
+- 22:59:28.016 INFO: Web server url: http://127.0.0.1:54007/
+- 22:59:28.016 INFO: WWW directory: C:\upg\Projects\VB\UPG SYSLOG SERVER\Release\data\www
+- 22:59:28.016 INFO: Index files: index.html,index.php
+- 22:59:28.016 INFO: CGI interpreter: C:\upg\Projects\VB\UPG SYSLOG SERVER\Release\data\php\php-cgi.exe
+- 22:59:28.016 INFO: CGI pattern: **.php$
+- 22:59:28.016 INFO: IE version from registry: 9.11.9431.0
+- 22:59:28.125 INFO: GET 200 /
+- 22:59:32.203 INFO: Stopping Mongoose web server
+- 22:59:32.281 INFO: Ended application
+- 22:59:32.281 INFO: --------------------------------------------------------
+- 22:59:42.000 INFO: --------------------------------------------------------
+- 22:59:42.000 INFO: Started application
+- 22:59:42.000 INFO: Logging to: C:\upg\Projects\VB\UPG SYSLOG SERVER\Release\data\debug.log
+- 22:59:42.000 INFO: Log level = INFO
+- 22:59:42.000 INFO: Starting Mongoose web server
+- 22:59:42.000 INFO: Web server url: http://127.0.0.1:54007/
+- 22:59:42.000 INFO: WWW directory: C:\upg\Projects\VB\UPG SYSLOG SERVER\Release\data\www
+- 22:59:42.000 INFO: Index files: index.html,index.php
+- 22:59:42.000 INFO: CGI interpreter: C:\upg\Projects\VB\UPG SYSLOG SERVER\Release\data\php\php-cgi.exe
+- 22:59:42.000 INFO: CGI pattern: **.php$
+- 22:59:42.000 INFO: IE version from registry: 9.11.9431.0
+- 22:59:42.125 INFO: GET 200 /
+- 22:59:52.312 INFO: Stopping Mongoose web server
+- 22:59:52.468 INFO: Ended application
+- 22:59:52.468 INFO: --------------------------------------------------------
+- 23:05:44.000 INFO: --------------------------------------------------------
+- 23:05:44.000 INFO: Started application
+- 23:05:44.000 INFO: Logging to: C:\upg\Projects\VB\UPG SYSLOG SERVER\Release\data\debug.log
+- 23:05:44.000 INFO: Log level = INFO
+- 23:05:44.000 INFO: Starting Mongoose web server
+- 23:05:44.000 INFO: Web server url: http://127.0.0.1:54007/
+- 23:05:44.000 INFO: WWW directory: C:\upg\Projects\VB\UPG SYSLOG SERVER\Release\data\www
+- 23:05:44.000 INFO: Index files: index.html,index.php
+- 23:05:44.000 INFO: CGI interpreter: C:\upg\Projects\VB\UPG SYSLOG SERVER\Release\data\php\php-cgi.exe
+- 23:05:44.000 INFO: CGI pattern: **.php$
+- 23:05:44.016 INFO: IE version from registry: 9.11.9431.0
+- 23:05:45.141 INFO: GET 200 /
+- 23:09:22.563 INFO: Stopping Mongoose web server
+- 23:09:22.578 INFO: Ended application
+- 23:09:22.578 INFO: --------------------------------------------------------
+- 23:10:22.000 INFO: --------------------------------------------------------
+- 23:10:22.000 INFO: Started application
+- 23:10:22.000 INFO: Logging to: C:\upg\Projects\VB\UPG SYSLOG SERVER\Release\data\debug.log
+- 23:10:22.000 INFO: Log level = INFO
+- 23:10:22.000 INFO: Starting Mongoose web server
+- 23:10:22.000 INFO: Web server url: http://127.0.0.1:54007/
+- 23:10:22.000 INFO: WWW directory: C:\upg\Projects\VB\UPG SYSLOG SERVER\Release\data\www
+- 23:10:22.000 INFO: Index files: index.html,index.php
+- 23:10:22.000 INFO: CGI interpreter: C:\upg\Projects\VB\UPG SYSLOG SERVER\Release\data\php\php-cgi.exe
+- 23:10:22.000 INFO: CGI pattern: **.php$
+- 23:10:22.016 INFO: IE version from registry: 9.11.9431.0
+- 23:10:22.110 INFO: GET 200 /
+- 23:10:26.485 INFO: GET 200 /
+- 23:10:51.641 INFO: GET 200 /
+- 23:11:07.407 INFO: GET 200 /
+- 23:11:08.204 INFO: GET 200 /
+- 23:11:25.094 INFO: GET 200 /?log=syslog-27-09-2013+.txt&Go=Go
+- 23:11:26.032 INFO: GET 200 /?log=syslog-27-09-2013+.txt&Go=Go
+- 23:12:45.422 INFO: GET 200 /?log=syslog-27-09-2013+.txt&Go=Go
+- 23:12:47.282 INFO: GET 200 /?log=syslog-27-09-2013+.txt&Go=Go
+- 23:12:48.235 INFO: GET 200 /?log=syslog-27-09-2013+.txt&Go=Go
+- 23:12:50.094 INFO: GET 200 /?log=syslog-28-09-2013.txt&Go=Go
+- 23:12:54.563 INFO: GET 200 /?log=syslog-29-09-2013.txt&Go=Go
+- 23:12:57.516 INFO: GET 200 /?log=syslog-29-09-2013.txt&Go=Go
+- 23:15:35.750 INFO: GET 200 /?log=syslog-29-09-2013.txt&Go=Go
+- 23:15:36.532 INFO: GET 200 /?log=syslog-29-09-2013.txt&Go=Go
+- 23:15:38.391 INFO: GET 200 /?log=syslog-29-09-2013.txt&Go=Go
+- 23:15:52.907 INFO: GET 200 /?log=syslog-29-09-2013.txt&Go=Go
+- 23:15:53.735 INFO: GET 200 /?log=syslog-29-09-2013.txt&Go=Go
+- 23:16:24.344 INFO: GET 200 /?log=syslog-29-09-2013.txt&Go=Go
+- 23:16:25.188 INFO: GET 200 /?log=syslog-29-09-2013.txt&Go=Go
+- 23:16:26.032 INFO: GET 200 /?log=syslog-27-09-2013+.txt&Go=Go
+- 23:16:28.110 INFO: GET 200 /?log=syslog-28-09-2013.txt&Go=Go
+- 23:16:31.485 INFO: GET 200 /?log=syslog-29-09-2013.txt&Go=Go
+- 23:16:32.391 INFO: GET 200 /?log=syslog-27-09-2013+.txt&Go=Go
+- 23:16:33.266 INFO: GET 200 /?log=syslog-27-09-2013+.txt&Go=Go
+- 23:16:37.969 INFO: GET 200 /?log=syslog-27-09-2013+.txt&Go=Go
+- 23:17:01.000 INFO: GET 200 /?log=syslog-27-09-2013+.txt&Go=Go
+- 23:17:01.735 INFO: GET 200 /?log=syslog-27-09-2013+.txt&Go=Go
+- 23:17:03.625 INFO: GET 200 /?logfile=syslog-29-09-2013.txt&Go=Go
+- 23:17:05.516 INFO: GET 200 /?logfile=syslog-28-09-2013.txt&Go=Go
+- 23:17:07.672 INFO: GET 200 /?logfile=syslog-29-09-2013.txt&Go=Go
+- 23:17:29.657 INFO: GET 200 /?logfile=syslog-29-09-2013.txt&Go=Go
+- 23:17:31.657 INFO: GET 200 /?logfile=syslog-29-09-2013.txt&Go=Go
+- 23:17:33.704 INFO: GET 200 /?logfile=syslog-28-09-2013.txt&Go=Go
+- 23:17:45.485 INFO: GET 200 /?logfile=syslog-28-09-2013.txt&Go=Go
+- 23:18:25.735 INFO: GET 200 /?logfile=syslog-28-09-2013.txt&Go=Go
+- 23:18:28.047 INFO: GET 200 /?logfile=syslog-28-09-2013.txt&Go=Go
+- 23:18:30.235 INFO: GET 200 /?logfile=syslog-28-09-2013.txt&Go=Go
+- 23:18:32.750 INFO: GET 200 /?logfile=syslog-29-09-2013.txt&Go=Go
+- 23:18:35.594 INFO: GET 200 /?logfile=syslog-29-09-2013.txt&Go=Go
+- 23:18:36.063 INFO: GET 200 /?logfile=syslog-29-09-2013.txt&Go=Go
+- 23:18:37.907 INFO: GET 200 /?logfile=syslog-29-09-2013.txt&Go=Go
+- 23:19:02.063 INFO: GET 200 /?logfile=syslog-29-09-2013.txt&Go=Go
+- 23:19:04.954 INFO: GET 200 /?logfile=syslog-28-09-2013.txt&Go=Go
+- 23:19:05.875 INFO: GET 200 /?logfile=syslog-29-09-2013.txt&Go=Go
+- 23:19:08.954 INFO: GET 200 /?logfile=syslog-28-09-2013.txt&Go=Go
+- 23:19:15.079 INFO: GET 200 /?logfile=syslog-28-09-2013.txt&Go=Go
+- 23:19:17.985 INFO: GET 200 /?logfile=syslog-28-09-2013.txt&Go=Go
+- 23:19:35.469 INFO: GET 200 /?logfile=syslog-28-09-2013.txt&Go=Go
+- 23:19:36.266 INFO: GET 200 /?logfile=syslog-28-09-2013.txt&Go=Go
+- 23:19:37.954 INFO: GET 200 /?logfile=syslog-28-09-2013.txt&Go=Go
+- 23:20:20.219 INFO: GET 200 /?logfile=syslog-28-09-2013.txt&Go=Go
+- 23:20:21.313 INFO: GET 200 /?logfile=syslog-28-09-2013.txt&Go=Go
+- 23:20:24.625 INFO: GET 200 /?logfile=syslog-28-09-2013.txt&Go=Go
+- 23:20:26.907 INFO: GET 200 /?logfile=syslog-29-09-2013.txt&Go=Go
+- 23:20:31.235 INFO: GET 200 /?logfile=syslog-28-09-2013.txt&Go=Go
+- 23:20:48.360 INFO: Stopping Mongoose web server
+- 23:20:48.438 INFO: Ended application
+- 23:20:48.438 INFO: --------------------------------------------------------
+- 23:20:53.000 INFO: --------------------------------------------------------
+- 23:20:53.000 INFO: Started application
+- 23:20:53.000 INFO: Logging to: C:\upg\Projects\VB\UPG SYSLOG SERVER\Release\data\debug.log
+- 23:20:53.000 INFO: Log level = INFO
+- 23:20:53.000 INFO: Starting Mongoose web server
+- 23:20:53.000 INFO: Web server url: http://127.0.0.1:54007/
+- 23:20:53.000 INFO: WWW directory: C:\upg\Projects\VB\UPG SYSLOG SERVER\Release\data\www
+- 23:20:53.000 INFO: Index files: index.html,index.php
+- 23:20:53.000 INFO: CGI interpreter: C:\upg\Projects\VB\UPG SYSLOG SERVER\Release\data\php\php-cgi.exe
+- 23:20:53.000 INFO: CGI pattern: **.php$
+- 23:20:53.000 INFO: IE version from registry: 9.11.9431.0
+- 23:20:53.094 INFO: GET 200 /
+- 23:21:07.594 INFO: GET 200 /?logfile=syslog-27-09-2013.txt&Go=Go
+- 23:21:09.844 INFO: GET 200 /?logfile=syslog-29-09-2013.txt&Go=Go
+- 23:21:11.750 INFO: GET 200 /?logfile=syslog-28-09-2013.txt&Go=Go
+- 23:21:20.985 INFO: GET 200 /?logfile=syslog-29-09-2013.txt&Go=Go
+- 23:26:06.500 INFO: GET 200 /?logfile=syslog-29-09-2013.txt&Go=Go
+- 23:26:09.016 INFO: GET 200 /?logfile=syslog-28-09-2013.txt&Go=Go
+- 23:26:10.547 INFO: GET 200 /?logfile=syslog-28-09-2013.txt&Go=Go
+- 23:26:12.719 INFO: GET 200 /?logfile=syslog-28-09-2013.txt&Go=Go
+- 23:26:13.860 INFO: GET 200 /?logfile=syslog-28-09-2013.txt&Go=Go
+- 23:26:13.297 INFO: GET 200 /?logfile=syslog-28-09-2013.txt&Go=Go
+- 23:26:14.641 INFO: GET 200 /?logfile=syslog-28-09-2013.txt&Go=Go
+- 23:26:18.313 INFO: GET 200 /?logfile=syslog-29-09-2013.txt&Go=Go
+- 23:26:53.641 INFO: GET 200 /?logfile=syslog-29-09-2013.txt&Go=Go
+- 23:26:56.954 INFO: Stopping Mongoose web server
+- 23:26:56.000 INFO: Ended application
+- 23:26:56.000 INFO: --------------------------------------------------------
+- 23:26:58.000 INFO: --------------------------------------------------------
+- 23:26:58.000 INFO: Started application
+- 23:26:58.000 INFO: Logging to: C:\upg\Projects\VB\UPG SYSLOG SERVER\Release\data\debug.log
+- 23:26:58.000 INFO: Log level = INFO
+- 23:26:58.000 INFO: Starting Mongoose web server
+- 23:26:58.000 INFO: Web server url: http://127.0.0.1:54007/
+- 23:26:58.000 INFO: WWW directory: C:\upg\Projects\VB\UPG SYSLOG SERVER\Release\data\www
+- 23:26:58.000 INFO: Index files: index.html,index.php
+- 23:26:58.000 INFO: CGI interpreter: C:\upg\Projects\VB\UPG SYSLOG SERVER\Release\data\php\php-cgi.exe
+- 23:26:58.000 INFO: CGI pattern: **.php$
+- 23:26:58.016 INFO: IE version from registry: 9.11.9431.0
+- 23:26:59.125 INFO: GET 200 /
+- 23:27:04.625 INFO: GET 200 /?logfile=syslog-28-09-2013.txt&Go=Go
+- 23:27:09.579 INFO: GET 200 /?logfile=syslog-29-09-2013.txt&Go=Go
+- 23:45:09.641 INFO: GET 200 /?logfile=syslog-29-09-2013.txt&Go=Go
+- 23:45:25.625 INFO: GET 200 /?logfile=syslog-29-09-2013.txt&Go=Go
+- 23:45:32.782 INFO: GET 200 /?logfile=syslog-29-09-2013.txt&Go=Go
+- 23:45:39.250 INFO: GET 200 /?logfile=syslog-29-09-2013.txt&Go=Go
+- 23:45:41.782 INFO: GET 200 /?logfile=syslog-29-09-2013.txt&Go=Go
+- 23:56:17.485 INFO: GET 200 /?logfile=syslog-29-09-2013.txt&Go=Go
+- 23:56:19.985 INFO: GET 200 /?logfile=syslog-27-09-2013.txt&Go=Go
+- 23:57:30.157 INFO: GET 200 /?logfile=syslog-27-09-2013.txt&Go=Go
+- 23:58:33.766 INFO: GET 200 /?logfile=syslog-27-09-2013.txt&Go=Go
+- 23:58:51.438 INFO: GET 200 /?logfile=syslog-27-09-2013.txt&Go=Go
+- 23:59:05.750 INFO: GET 200 /?logfile=syslog-27-09-2013.txt&Go=Go
+- 00:04:31.266 INFO: Stopping Mongoose web server
+- 00:04:31.391 INFO: Ended application
+- 00:04:31.391 INFO: --------------------------------------------------------
